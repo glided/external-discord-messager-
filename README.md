@@ -42,10 +42,10 @@ key = "put your token here"
 Project is: _in progress_ (Currently working on other projects while doing this
 
 
-Room for improvement:
+## Room for improvement:
 - Nothing really.
 
-To do:
+## To do:
 - Make the user text variable go into a encryption function.
 - Make the encryption generate a Private key for decryption.
 
