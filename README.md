@@ -1,1 +1,2 @@
-# external-discord-messager-
+External discord messager that utilizes discord's api. 
+
